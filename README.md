@@ -1,3 +1,5 @@
+# This application is not completed, I've never worked with Angular before and this is my first attempt.
+
 # AngularApplication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
